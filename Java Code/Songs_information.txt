@@ -1,0 +1,11 @@
+1 humble 2017 kendrick Rap 3.1 
+2 starboy 2016 Weekend R&B 4.2 
+3 back 1980 AC/DC Metal 1.5
+4 numb 2000 likinPark Rock 5.2
+5 paradise 2016 coldplay Pop 4.2
+6 couldYouBeLoved 1980 bobMarley Reggae 4.9
+7 withOrWithoutYou 1987 U2 AlternativeMusic 10
+8 livinOnAPrayer 1986  bonJovi Rock 3.5
+9 passionFruit 2017 drake Hip-hop 5.3
+10 treasure 2012 brunoMars Disco 5.2
+
